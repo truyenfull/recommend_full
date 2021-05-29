@@ -1,17 +1,17 @@
 [
    {
-      "app_icon":"https://github.com/truyenfull/map_lq/raw/main/thumbnail/ic_logo_app.png",
+      "app_icon":"https://github.com/truyenfull/recommend_full/raw/main/icon_app/ic_logo_app.png",
       "title":"SaveFrom Downloader - Tìm Và Tải Video Siêu Nhanh",
       "content":"Tải bất kỳ video nào trên mạng xã hội, website nhanh chóng",
-      "picture":"https://github.com/truyenfull/map_lq/raw/main/thumbnail/image_represent.png",
+      "picture":"https://github.com/truyenfull/recommend_full/raw/main/banner_app/image_represent.png",
       "packageName":"com.docs.sn.SaveFromDownload",
       "local":"VN"
    },
    {
-      "app_icon":"https://github.com/truyenfull/map_lq/raw/main/thumbnail/ic_logo_app.png",
+      "app_icon":"https://github.com/truyenfull/recommend_full/raw/main/icon_app/ic_logo_app.png",
       "title":"SaveFrom Downloader - Find And Download Videos Super Fast",
       "content":"Download any video on social networks, websites quickly",
-      "picture":"https://github.com/truyenfull/map_lq/raw/main/thumbnail/image_represent.png",
+      "picture":"https://github.com/truyenfull/recommend_full/raw/main/banner_app/image_represent.png",
       "packageName":"com.docs.sn.SaveFromDownload",
       "local":"another"
    }
